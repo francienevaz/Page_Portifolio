@@ -1,4 +1,5 @@
-import SocialNetworks from './SocialNetworks';import Avatar from '../img/fran.jpg'
+import SocialNetworks from './SocialNetworks';
+import Avatar from '../img/fran.jpg'
 import '../styles/components/sidebar.sass'
 
 const SideBar= () => {
